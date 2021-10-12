@@ -9,7 +9,6 @@ body{
 	margin:0;
 	-webkit-tap-highlight-color: transparent;
 	user-select:none;
-    padding:5px;
 }
 [clear]:before,[clear]:after{
 	content:"";
@@ -22,7 +21,7 @@ body{
     background: #f7f7f7;
 	border-bottom: 1px solid #2196F3;
 	overflow:auto;
-	padding: 10px 0;
+	padding: 10px;
 }
 .big-file-manager.theme-structure ul {
 	padding: 0;
